@@ -1,0 +1,9 @@
+{
+  "gateway": {
+    "controlUi": {
+      "allowedOrigins": [
+        "https://openclaw-zi07.onrender.com"
+      ]
+    }
+  }
+}
